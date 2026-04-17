@@ -10,7 +10,7 @@ This repository contains all the assignments and projects completed as part of m
 - **[assignment-4](./assignment-4/)**: Backend Integration with Node.js and Express
 - **[assignment 5](./assignment%205/)**: Full Stack Project implementation with Backend & Frontend 
 - **[assignment 6](./assignment%206/)**: Final Full Stack application featuring Advanced React components, API integration, and comprehensive state management
-
+- **[assignment 7](./assignment%207/)**: Advanced implementation covering additional Full Stack features
 *(More assignments will be added consecutively)*
 
 ## Getting Started
